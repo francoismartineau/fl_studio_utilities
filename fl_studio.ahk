@@ -1,4 +1,3 @@
-
 ;À FAIRE
 ;------> fais des raccourcis qui font apparaître une fenêtre, clique à la bonne
 ;        place et charge des trucs précis. Choisir des choses que je veux me mettre à faire plus souvent.
