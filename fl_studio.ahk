@@ -100,3 +100,4 @@ F12:: Run "C:\Users\ffran\scripts\fl_studio\fl_studio_f12.vbs"
 !F12:: Run "C:\Users\ffran\scripts\fl_studio\set_microphone.bat"
 +F12:: Run "C:\Users\ffran\scripts\fl_studio\set_stereo_mix.bat"
 }
+#IfWinActive
